@@ -9,3 +9,5 @@ Can test with initial inputs for Richmond (call dem_param.m):
 p1 = [37.9556027777778, -122.4162583333333]; L = 2000; row = 3; col = 5; 
 
 call dem_param.m > pass saved variables to sta_param.m > pass demand and station variables to opt_eval to run optimizaton and assign chargers
+
+#false edit
